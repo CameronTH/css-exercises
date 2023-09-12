@@ -1,0 +1,22 @@
+.imaclass {
+  background-color: lightcoral;
+  font-family: sans-serif;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+.imaclass.coolclass {
+  font-size: 24px;
+}
+
+#idone {
+  font-size: 36px;
+  color: blue;
+}
+
+#idtwo {
+  font-weight: bold;
+  background-color: greenyellow;
+}
